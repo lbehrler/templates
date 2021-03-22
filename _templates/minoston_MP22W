@@ -15,3 +15,5 @@ standard: us
 Note: This device may have switched to the ARM based W2BS module which does not support tasmota.
 
 Purchased one from Amazon USA on 2020-12-22 and was not able to use tuya-convert. Has Bluetooth which is tip-off that it is no longer an ESP8266 inside.
+
+Purchased on from Amazon US on 2021-03-20, disasembly yeilded that the unit has a W2BS chip.  
